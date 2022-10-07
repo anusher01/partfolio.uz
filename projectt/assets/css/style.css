@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.section__1 {
+    background-color: #f0f5f9;
+    padding: 150px 0 100px 0;
+}
+
+.card__1 {
+    background-color: #FFF2E5;
+}
+
+.img__1 {
+    width: 80px;
+}
+
+.card__2 {
+    background-color: #F8F9FA;
+}
+
+.card__3 {
+    background-color: #F0F5F9;
+}
+
+.features__1 {
+    background-color: #F0F5F9;
+}
+
+.result__img {
+    width: 80px;
+}
+
+.about__1 {
+    width: 60px;
+}
+
+.account__img {
+    width: 60px;
+}
+
+.features__1 {
+    padding: 50px;
+}
+
+.card__1 {
+    background-color: #f0f5f9;
+}
+
+.navbar {
+    background-color: #f0f5f9;
+}
