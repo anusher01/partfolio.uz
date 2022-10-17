@@ -1,0 +1,323 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+.container {}
+
+.restange {
+    margin-top: 50px;
+    width: 1920px;
+    height: 740px;
+
+    background: url(../img/Rectangle.png), #404149;
+
+}
+
+.box {
+    display: flex;
+
+}
+
+.box-img {
+    margin-top: 30px;
+}
+
+.box-img-2 {
+    margin-top: 30px;
+}
+
+.title-text {}
+
+.title {
+    width: 1000px;
+    height: 171px;
+    margin-left: 500px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 95px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    margin-top: 50px;
+    /* White */
+
+    color: #FFFFFF;
+
+}
+
+.text {
+    width: 734px;
+    height: 22px;
+    left: 593px;
+    top: 398px;
+
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 70px;
+    margin-right: 600px;
+    /* White */
+
+    color: #FFFFFF;
+
+}
+
+
+.container {
+    width: 1000px;
+    height: 681px;
+    margin-top: 100px;
+
+}
+
+.section-2-title {
+    width: 1006px;
+    height: 43px;
+    left: 706px;
+    top: 990px;
+
+    /* h2 */
+
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-left: 500px;
+    /* Dark */
+
+    color: #404149;
+
+}
+
+.section-list {
+    display: flex;
+    margin-bottom: 50px;
+
+}
+
+.ahre {
+    display: flex;
+    margin-left: 160px;
+    margin-bottom: 50px;
+}
+
+.section-2-img {
+    width: 500px;
+    height: 878px;
+    margin-top: 50px;
+}
+
+.section-3-img {
+    width: 500px;
+    height: 878px;
+    margin-left: 40px;
+    margin-top: 50px;
+
+}
+
+.section-4-img {
+    margin-top: 50px;
+
+    width: 500px;
+    height: 878px;
+    margin-left: 40px;
+}
+
+
+
+.container {}
+
+.umumiy {
+    margin-top: 400px;
+    width: 1920px;
+    height: 181px;
+    /* Accent */
+
+    background: #F7654A;
+}
+
+.hamma-title {
+    width: 1037px;
+    height: 57px;
+    margin-left: 190px;
+
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 71px;
+    letter-spacing: 0.02em;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+.hamma-text {
+    width: 1062px;
+    height: 29px;
+    margin-top: 30px;
+    margin-left: 190px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+.button-img {
+    width: 175px;
+    height: 49px;
+    margin-left: 1500px;
+    margin-top: -60px;
+    cursor: pointer;
+}
+
+
+.group {
+    width: 1110px;
+
+}
+
+.group-title {
+    width: 3510px;
+    margin-left: 760px;
+    margin-top: -400px;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 53px;
+    margin-bottom: 100px;
+    cursor: pointer;
+
+    color: #000000;
+}
+
+.group-list {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: -900px;
+    cursor: pointer;
+}
+
+.group-item {
+    width: 450px;
+    margin-left: 370px;
+    height: 350px;
+    left: 405px;
+    top: 2261px;
+    margin-bottom: 300px;
+}
+
+.question {
+    width: 730px;
+    height: 452px;
+    margin-top: 750px;
+}
+
+.question-title {
+    width: 1021px;
+    height: 53px;
+    margin-left: 460px;
+    font-weight: 600;
+    font-size: 76px;
+    line-height: 53px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.question-item {
+    width: 1000px;
+    height: 29px;
+  margin-top: 110px;
+
+    /* h3 */
+
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 36px;
+cursor: pointer;
+    /* Accent */
+
+    color: #F7654A;
+}
+
+.question-text{
+    width: 1030px;
+    height: 103px;
+ cursor: pointer;
+    /* p */
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 22px;
+    margin-top: 110px;
+    margin-bottom: 240px;
+    /* gray */
+    
+    color: #999999;
+    
+
+}
+.part{
+width: 2920px;
+height: 664px;
+
+}
+
+.part-img{
+width: 4000px;
+margin-top: 600px;
+margin-left: -900px;
+cursor: pointer;
+}
+
+.cantact{
+    width: 1110px;
+height: 304px;
+
+}
+
+
+.cantact-img{
+    margin-top: 1000px;
+    width: 2000px;
+    margin-left: 200px;
+    cursor: pointer;
+}
+
+.footer{
+    width: 20px;
+height: 82px;
+margin-top: 1200px;
+
+}
+.footer-img{
+    width: 5000px;
+    margin-left: -1620px;
+}
